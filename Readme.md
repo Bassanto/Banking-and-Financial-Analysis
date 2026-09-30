@@ -1,5 +1,8 @@
 #  Nigerian Banking Operations Dasboard
 
+<img width="1311" height="603" alt="Screenshot 2026-09-30 231737" src="https://github.com/user-attachments/assets/efa60ec7-ab64-4182-bd2c-124b52b3f1a0" />
+
+
 Here is the file for the full interactive dashboard [View Here](./Naijafin_Analysis%20(Recovered).xlsx)
 
  
@@ -120,6 +123,10 @@ The monthly_income column had several null values that were handled through cond
 Duplicate records were identified through column formatting and data inspection. After verifying that the entries were true duplicates, they were removed to improve data accuracy and consistency.
 
 ## Analysis and Insights
+
+<img width="1322" height="611" alt="Screenshot 2026-09-30 231821" src="https://github.com/user-attachments/assets/0a3fb4f5-7a9e-4d65-a9b9-8b78622a3a57" />
+
+
 1. The transaction trend has a significant partner and that is increase during 
 holiday period. January, ,May , July , August and December has a signifcant increase compared to the previous month.
 2. Only 249 accounts are active out of 402 accounts which is not really a positive result. 
